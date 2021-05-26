@@ -1,3 +1,14 @@
+#  React app with PWA Example 
+
+## This is a demo small app for pwa and google authentication using REACT JS 
+
+- React JS App version 17.0.2
+-  google auth using firebase 
+-  After Logging in User Data is shown 
+-  logout button to clear session
+-  a pwa app which is installable to Desktop and Mobile Browser. 
+- Demo Url : https://react-pwa.technicalheist.com/
+
 # Create React App Project
 This project contains pre defined functions for quick development. 
 - Routing
